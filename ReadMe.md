@@ -1,11 +1,17 @@
-Just somthing I wish someone had made when I start trying to  use this Library
+Readme
+=======================================
 
-Enclosed are a Bunch of extremely simple examples for the tinyB library
+This is just somethig I would have found useful when I started with TinyB.
+Enclosed are a Bunch of extremely simple examples for the tinyB library.
 
-Eventually this should contain examples demonstrating the capabillities of each class in the Library.
-Feel free to add if you have any cool things
+I will be slowly adding examples to the github as time will let me. All contributions are welcome.
+
+
+Important
+============
 
 Intel Library Documentation: 
+-------------------------------
 
 TinyB installation instructions: 
 To get the necessary Jar Files, you can go the section 3 of the following link:
